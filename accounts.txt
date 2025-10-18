@@ -1,0 +1,5 @@
+jen|12345|jen |400
+jen |12345|jen |700
+dan |5678|dan|0
+dan|123|dan|0
+nef|12345|Neftali |0
